@@ -48,7 +48,7 @@ html,body{
 .notification-slide-down{
 	height: 30%;
 	width: 100%;
-	background-color: ;
+	background-color: white;
 	margin-top: -100%;
 	transition: margin-top 1s;
 	display: flex;
