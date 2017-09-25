@@ -1,0 +1,133 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: ;
+	overflow: hidden;
+
+}
+.master-wrapper{
+	height: inherit;
+	width: inherit;
+	background-color: ;
+
+}
+
+.main-wrap{
+	position: absolute;
+	background-color: ;
+}
+.background-wrapper{
+	background-color: ;
+}
+.background-container{
+	background-color: white;
+}
+.background-image{
+	background-repeat: no-repeat;
+	background-size: contain;
+
+}
+.content-wrapper{
+	z-index: ;
+	background-color: ;
+}
+.notification-wrapper{
+	z-index: 1;
+	background-color: ;
+}
+.notification-container{
+	height: 30%;
+	width: 100%;
+	background-color: ;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.notification-slide-down{
+	height: 30%;
+	width: 100%;
+	background-color: ;
+	margin-top: -100%;
+	transition: margin-top 1s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: ;
+	font-size:3vh;
+}
+.content-container{
+
+}
+.cortana-wrapper{
+	z-index: 3;
+	background-color: ;
+}
+.cortana-spacer{
+	height: 25%;
+	width: 100%;
+	background-color: ;
+}
+.cortana-chunk{
+	height: 12%;
+	width: 100%;
+	background-color: ;
+}
+.cortana-icon-box{
+	height: 100%;
+	background-color: ;
+	margin-left: -2%;
+}
+.cortana-icon{
+	height: 80%;
+	width: 80%;
+	border-radius: 5em;
+	background-color: white;
+	transition:height .5s, width .5s;
+}
+.cortana-assistant-image{
+	position: absolute;
+	background-color: ;
+}
+.cortana-notification-image{
+	position: absolute;
+	background-color: ;
+	z-index: 1;
+}
+.cortana-notification-spacer{
+	height: 50%;
+	width: 50%;
+	float: right;
+	background-color: ;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.cortana-notification-icon{
+	height: 50%;
+	width: 50%;
+	background-color: red;
+	color:white;
+	font-size: 2vh;
+	font-weight: bold;
+	font-family: 'Noto Sans', sans-serif;
+	border-radius:5em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: height 1s width 1s;	
+}
+.content-container{
+	height: 100%;
+	width: 100%;
+	background-color: ;
+}
+.content-header{
+	height: 20%;
+	width: 100%;
+	background-color: ;
+}
+.content-body{
+	height: 
+}
